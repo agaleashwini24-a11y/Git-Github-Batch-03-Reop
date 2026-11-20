@@ -12,7 +12,7 @@ Calculate the percentage
 
 \## Technology
 
-Python
+Python   
 
 
 
